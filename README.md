@@ -1,87 +1,123 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Sarthak%20Dherange&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Student&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=sarthak-027">
-    <img src="https://komarev.com/ghpvc/?username=sarthak-027&label=Profile%20views&color=00FFFF&style=flat-square" alt="sarthak-027's profile views" />
-  </a>
-</p>
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/sarthak-027">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sarthak-027&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="sarthak-027's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=sarthak-027&theme=github_dark&hide_border=true&cache_seconds=86400" alt="sarthak-027's GitHub Streak" width="49%" />
-</p>
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+
+# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hey+There+👋;I'm+Sarthak+Dherange;MERN+Stack+Developer;IoT+%26+Open+Source+Enthusiast;Building+Cool+Things+🚀" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-9c351cb9-c9df-4f4f-8ff0-8b5f0f8c2e1b.gif" width="700">
+
+### 🚀 Full Stack Developer • MERN Stack • UI/UX Enthusiast • IoT Explorer
+
+<br>
+
+<a href="https://www.linkedin.com/in/sarthak-dherange-80ab2b341">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </div>
 
+---
 
-## 🛠️ Languages & Tools
+# 💫 About Me
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+<img align="right" alt="coding" width="320" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-</p>
+- 🌱 Currently mastering **MERN Stack & System Design**
+- ⚡ Building modern and interactive web experiences
+- 🔥 Passionate about **Open Source & UI Engineering**
+- 🧠 Practicing **DSA & Backend Development**
+- 🌍 Exploring scalable architectures & cloud technologies
+- 🚀 Love creating projects that actually feel premium
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+<br><br>
 
-</p>
+---
 
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
+# 🛠️ Tech Stack
 
-</p>
+<div align="center">
 
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=js,cpp,python,java,html,css" />
 
-</p>
+### ⚙️ Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+### 🗄️ Database & Tools
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" />
 
-</p>
+</div>
 
-![Top language](https://stats.pphat.top/languages?username=sarthak-027)
-<br/>
+---
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="sj">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://wa.me/918446275927">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="sn">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:dherangesarthak07@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="sn">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
-</p>
+# 🚀 Featured Projects
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+<div align="center">
 
+| Project | Description |
+|---------|-------------|
+| 🌿 **IoT Smart Irrigation** | Automatic irrigation system using IoT sensors |
+| 🍽️ **Restaurant Reservation System** | Modern reservation platform with MERN |
+| ☁️ **Cloud Drive Platform** | Google Drive inspired storage platform |
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&layout=compact)
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15)
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sarthak-dherange-80ab2b341">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ "Code. Create. Improve. Repeat." ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=120&section=footer"/>
+
+</div>
