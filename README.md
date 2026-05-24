@@ -21,8 +21,9 @@
   <a href="https://github.com/sarthak-027">
     <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sarthak-027&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="sarthak-027's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=sarthak-027&theme=dark&hide_border=true&cache_seconds=86400"  align="right"alt="sarthak-027's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=sarthak-027&theme=dark&hide_border=true&cache_seconds=86400"  align="right"alt="sarthak-027's GitHub Streak" width="45%" />
 </p>
+<br>
 
 
 ## 🛠️ Languages & Tools
