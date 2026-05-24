@@ -63,23 +63,11 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sarthak-dherange-80ab2b341">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="60" />
-</a>
-
-<a href="mailto:your-email@example.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="60" />
-</a>
-
-<a href="https://x.com/YOUR_USERNAME">
-  <img src="https://cdn.simpleicons.org/x/white" width="52" />
-</a>
-
-<a href="https://yourportfolio.com">
-  <img src="https://cdn.simpleicons.org/vercel/white" width="52" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://yourportfolio.com)
 
 </div>
-
 <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
