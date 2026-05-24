@@ -61,24 +61,22 @@
 ![Top language](https://stats.pphat.top/languages?username=sarthak-027)
 <br/>
 
-# 🌐 Connect With Me
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sarthak-dherange-80ab2b341" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-7F5AF0?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/sarthak-dherange-80ab2b341">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="60" />
 </a>
 
 <a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Gmail-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="60" />
 </a>
 
-<a href="https://x.com/YOUR_USERNAME" target="_blank">
-<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
+<a href="https://x.com/YOUR_USERNAME">
+  <img src="https://cdn.simpleicons.org/x/white" width="52" />
 </a>
 
-<a href="https://yourportfolio.com" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://yourportfolio.com">
+  <img src="https://cdn.simpleicons.org/vercel/white" width="52" />
 </a>
 
 </div>
