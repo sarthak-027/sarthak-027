@@ -1,5 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Sarthak Dherange</h1>
 <h3 align="center">Full Stack Developer • DSA Learner • Open Source Contributor</h3>
+---
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=sarthak-027">
