@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Banner" width="100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVjNW1zd2dicDZhbDFpcmVoMGl5eTRncGZjZHdrdzcwMmhvNTN0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mTPjPA6SSXgTsnZ1Dh/giphy.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🚀 Backend & MERN Stack Developer passionate and building modern web experiences.
