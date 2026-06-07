@@ -2,7 +2,7 @@
 <a href="https://komarev.com/ghpvc/?username=sarthak-027">
     <img align="right"src="https://komarev.com/ghpvc/?username=sarthak-027&label=Profile%20views&color=00FFFF&style=flat-square" alt="sarthak-027's profile views" />
   </a>
-<h3 align="center">Full Stack Developer • DSA Learner • Open Source Contributor</h3>
+<h3 align="center">Full Stack Developer • DSA Learner </h3>
 <br>
 <div align="center">
 
