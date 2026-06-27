@@ -38,7 +38,7 @@
   <img
       height="150em"
       align="center"
-      src="https://streak-stats.demolab.com/?user=sarthak-027&theme=dark&hide_border=true" />
+      src="https://streak-stats.demolab.com/?user=sarthak-027&theme=dark&border_radius=10" />
 </p>
 <hr>
 
