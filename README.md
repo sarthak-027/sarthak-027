@@ -34,7 +34,7 @@
   />
 </a>
   
-  <img src="https://streak-stats.demolab.com/?user=sarthak-027&theme=dark&hide_border=true&cache_seconds=86400" alt="sarthak-027's GitHub Streak" width="45%" /> 
+  <img src="https://streak-stats.demolab.com/?user=sarthak-027&theme=dark&hide_border=true" />
 </p>
 <hr>
 
