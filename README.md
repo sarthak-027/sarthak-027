@@ -84,9 +84,10 @@
 
 
 <p align="center">
-  <a href="https://github.com/sarthak-027">
-    <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sarthak-027&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-027&layout=compact&langs_count=8&theme=dark&border_radius=10"
+    alt="Top Languages"
+  />
 </p>
 <hr>
 
