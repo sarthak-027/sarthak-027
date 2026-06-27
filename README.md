@@ -30,12 +30,14 @@
   <a href="https://github.com/sarthak-027">
   <img
     height="150em"
+      align="left"
     src="https://github-readme-stats.vercel.app/api?username=sarthak-027&show_icons=true&theme=dark&border_radius=10&include_all_commits=true&count_private=true"
   />
 </a>
   
   <img
       height="150em"
+      align="center"
       src="https://streak-stats.demolab.com/?user=sarthak-027&theme=dark&hide_border=true" />
 </p>
 <hr>
