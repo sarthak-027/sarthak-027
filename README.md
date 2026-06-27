@@ -34,7 +34,9 @@
   />
 </a>
   
-  <img src="https://streak-stats.demolab.com/?user=sarthak-027&theme=dark&hide_border=true" />
+  <img
+      height="150em"
+      src="https://streak-stats.demolab.com/?user=sarthak-027&theme=dark&hide_border=true" />
 </p>
 <hr>
 
