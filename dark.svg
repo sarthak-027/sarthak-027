@@ -107,35 +107,39 @@
         <animate attributeName="y" values="0;516;0" dur="4s" repeatCount="indefinite"/>
       </rect>
 
-      <!-- ASCII Art: Cyber Skull / Backend Core -->
-      <g class="mono" font-size="11" font-weight="700" fill="url(#accent-grad)" filter="url(#glow-subtle)" xml:space="preserve">
-        <text x="25" y="65" opacity="0">  ██████╗ ███████╗██╗   ██╗    ██╗  ██╗███████╗<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.2s" fill="freeze"/></text>
-        <text x="25" y="85" opacity="0">  ██╔══██╗██╔════╝██║   ██║    ██║  ██║██╔════╝<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.4s" fill="freeze"/></text>
-        <text x="25" y="105" opacity="0">  ██████╔╝█████╗  ██║   ██║    ███████║█████╗  <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.6s" fill="freeze"/></text>
-        <text x="25" y="125" opacity="0">  ██╔══██╗██╔══╝  ╚██╗ ██╔╝    ██╔══██║██╔══╝  <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.8s" fill="freeze"/></text>
-        <text x="25" y="145" opacity="0">  ██║  ██║███████╗ ╚████╔╝     ██║  ██║███████╗<animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.0s" fill="freeze"/></text>
-        <text x="25" y="165" opacity="0">  ╚═╝  ╚═╝╚══════╝  ╚═══╝      ╚═╝  ╚═╝╚══════╝<animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.2s" fill="freeze"/></text>
+     <!-- ==================== CUSTOM AVATAR IMAGE ==================== -->
+      <!-- Centered container with a subtle fade-in animation -->
+      <g transform="translate(65, 80)" opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.2s" fill="freeze"/>
         
-        <text x="25" y="205" opacity="0">       .+------+     +------+     +------+     <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.4s" fill="freeze"/></text>
-        <text x="25" y="220" opacity="0">     .' |    .'|    /      /|    .' |    .'|   <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.6s" fill="freeze"/></text>
-        <text x="25" y="235" opacity="0">    +---+--+'  |   +------+ |   +---+--+'  |   <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.8s" fill="freeze"/></text>
-        <text x="25" y="250" opacity="0">    |   |  |   |   | [DB] | |   |   |  |   |   <animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.0s" fill="freeze"/></text>
-        <text x="25" y="265" opacity="0">    |  ,+--+---+   |      | +   |  ,+--+---+   <animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.2s" fill="freeze"/></text>
-        <text x="25" y="280" opacity="0">    |.'    | .'    |      |/    |.'    | .'    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.4s" fill="freeze"/></text>
-        <text x="25" y="295" opacity="0">    +------+'      +------+     +------+'      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.6s" fill="freeze"/></text>
+        <!-- Animated Glowing Gradient Border around your photo -->
+        <rect x="-4" y="-4" width="288" height="288" rx="144" fill="url(#accent-grad)" opacity="0.8">
+          <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" repeatCount="indefinite"/>
+        </rect>
+        
+        <!-- Dark background behind transparent PNGs -->
+        <rect x="0" y="0" width="280" height="280" rx="140" fill="#0F172A"/>
 
-        <text x="25" y="335" opacity="0">  [SYSTEM_KERNEL]: ARCHITECTURE OPTIMIZED      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.8s" fill="freeze"/></text>
-        <text x="25" y="355" opacity="0">  [AI_AGENTS]    : AUTONOMOUS WORKFLOWS ACTIVE <animate attributeName="opacity" values="0;1" dur="0.5s" begin="3.0s" fill="freeze"/></text>
-        <text x="25" y="375" opacity="0">  [THREADS]      : MULTI-THREADED C++ ENGINE   <animate attributeName="opacity" values="0;1" dur="0.5s" begin="3.2s" fill="freeze"/></text>
-        <text x="25" y="395" opacity="0">  [STATUS]       : 0x00000000 (ONLINE &amp; READY) <animate attributeName="opacity" values="0;1" dur="0.5s" begin="3.4s" fill="freeze"/></text>
+        <!-- ClipPath shapes your image into a perfect circle -->
+        <!-- Note: To use a modern rounded square instead of a circle, change rx="140" to rx="32" on ALL three rects above and below! -->
+        <clipPath id="avatar-clip">
+          <rect x="0" y="0" width="280" height="280" rx="140"/>
+        </clipPath>
         
-        <text x="25" y="440" opacity="0" fill="#F8FAFC">  $ init --high-scale-sys --auto-agent<animate attributeName="opacity" values="0;1" dur="0.5s" begin="3.6s" fill="freeze"/></text>
-        <text x="25" y="465" opacity="0" fill="#94A3B8">  &gt; Deploying neural backends... DONE.<animate attributeName="opacity" values="0;1" dur="0.5s" begin="3.8s" fill="freeze"/></text>
+        <!-- 🔴 PASTE YOUR RAW GITHUB IMAGE URL IN THE href BELOW 🔴 -->
+        <image href="https://raw.githubusercontent.com/sarthak-027/sarthak-027/refs/heads/main/1784383650130.png" 
+               width="280" height="280" 
+               clip-path="url(#avatar-clip)" 
+               preserveAspectRatio="xMidYMid slice"/>
       </g>
-      <!-- Blinking Cursor in Terminal -->
-      <rect x="295" y="454" width="8" height="15" fill="#22D3EE" opacity="0">
-        <animate attributeName="opacity" values="0;1;0" dur="0.8s" begin="4.0s" repeatCount="indefinite"/>
-      </rect>
+
+      <!-- Sleek Cyber Status Text Below Your Photo -->
+      <g class="mono" font-size="13" font-weight="700" text-anchor="middle" opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.6s" fill="freeze"/>
+        <text x="205" y="420" fill="url(#accent-grad)">[SYSTEM_STATUS]: ONLINE</text>
+        <text x="205" y="445" font-size="12" fill="#94A3B8">$ init --high-scale-sys --auto-agent</text>
+      </g>
+ 
     </g>
   </g>
 
