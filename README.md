@@ -1,7 +1,13 @@
-<p align="center">
-  <img src="./my_portrait.svg" width="49%" />
-  <img src="./neofetch.svg" width="49%" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" style="padding-right: 10px;">
+      <img src="./my_portrait.svg" height="380" />
+    </td>
+    <td valign="top" style="padding-left: 10px;">
+      <img src="./neofetch.svg" height="380" />
+    </td>
+  </tr>
+</table>
 
 
 <a href="https://komarev.com/ghpvc/?username=sarthak-027">
