@@ -5,11 +5,7 @@
 <h3 align="center">Full Stack Developer • DSA Learner </h3>
 <br>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="light.svg">
-    <img alt="GitHub Hero Banner" src="daark.svg" width="100%">
-  </picture>
+  
 </p>
 <div align="center">
 
