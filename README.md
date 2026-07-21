@@ -4,6 +4,13 @@
   </a>
 <h3 align="center">Full Stack Developer • DSA Learner </h3>
 <br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light.svg">
+    <img alt="GitHub Hero Banner" src="dark.svg" width="100%">
+  </picture>
+</p>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
